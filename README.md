@@ -1,5 +1,15 @@
-# Unity_Game_Template
+# SEG_FAULT
+A horror-based coding game made by the Open Source Club at University of Florida. This will be our first 3D game made in Unity and we're very excited to share it with you! If you'd like to learn more about our organization and talk to our members, come check us out on [Discord](discord.gg/Gsxej6u).
 
-This repo uses git lfs
+## Getting Started
+To work with this project, please follow the following instructions closely as git lfs can be very fragile to set up and maintain on GitHub.
 
-Clone this repo and then start a new unity game inside of the folder alongside the git files. The hierarchy should have a folder with git files and then a single project folder with the relevant unity project files inside.
+1. Install Unity version 2019.1.12f1 and the latest community version of [GitKraken](https://www.gitkraken.com/).
+2. Install git lfs from here: https://github.com/git-lfs/git-lfs/releases
+3. Run "git lfs install" on the command line
+4. Restart your terminal
+5. Clone the project from this repo, the flags for LFS are already defined in .gitattributes.
+6. Git hooks must be enabled to use git lfs. It is done in GitKraken by going to Preferences -> General and setting the path to sh.exe found in the git install bin. 
+7. To change the editor used go to edit -> prefrences -> external tools -> external script editor and set it there.
+
+Special Thanks to @rennemannd for helping set this up!
