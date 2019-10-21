@@ -18,4 +18,5 @@ Special Thanks to @rennemannd for helping set this up!
 * [Additional Files](https://drive.google.com/drive/folders/1Lb8VJFtlIOahXul-P6_BCFAC_xXKH7I5?usp=sharing)
 
 * [Maya](https://www.autodesk.com/education/free-software/maya)
-*[SubstancePainter](https://www.substance3d.com/buy/download)
+
+* [SubstancePainter](https://www.substance3d.com/buy/download)
